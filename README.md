@@ -1,3 +1,4 @@
+#But in this case it is not properly working please make stable application
 # PubNub Python SDK (V4)
 [![Build Status](https://travis-ci.org/pubnub/python.svg?branch=master)](https://travis-ci.org/pubnub/python)
 [![codecov](https://codecov.io/gh/pubnub/python/branch/master/graph/badge.svg)](https://codecov.io/gh/pubnub/python)
